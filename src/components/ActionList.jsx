@@ -1,4 +1,4 @@
-"use client";
+
 import { Button } from "./ui/Button";
 import { Card, CardContent } from "./ui/Card";
 import { ChevronUp, ChevronDown, X } from "lucide-react";
